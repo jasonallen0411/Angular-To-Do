@@ -1,0 +1,8 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100vh;
+	background-image: url("http://www.alc.edu/wp-content/uploads/2017/09/legal-pad-979558_960_720.png");
+	-webkit-background-size: cover;
+	background-size: cover;
+}

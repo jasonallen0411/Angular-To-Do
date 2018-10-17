@@ -1,0 +1,16 @@
+.todoWrapper{
+	text-align: center;
+	margin: 0px auto;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#listItems{
+	display: block;
+	margin: 0px auto;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
